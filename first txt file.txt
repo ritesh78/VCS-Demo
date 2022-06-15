@@ -1,2 +1,3 @@
-this is our first text file created for the git version control.
+this is our first text file created for the git version control.123345
 Change done by collaborator. 
+further changes dne.
